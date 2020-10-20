@@ -3,7 +3,7 @@ Tradução do jogo Fallen Angel (PC)
 
 ## Ultimo lançamento
 Baixar Aqui >>>>>
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Hootek/FALLEN_ANGEL_PT-BR)](https://github.com/HootekFALLEN_ANGEL_PT-BR/releases/latest)<<<<<Baixar Aqui
+[![GitHub release (latest by date)](https://img.shields.io/github/v/releases/Hootek/FALLEN_ANGEL_PT-BR)](https://github.com/HootekFALLEN_ANGEL_PT-BR/releases/latest)<<<<<Baixar Aqui
 
 
 ## Sobre a Tradução
