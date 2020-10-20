@@ -1,5 +1,5 @@
-# FALLEN_ANGEL_PT-BR
-Tradução do jogo Fallen Angel
+# FALLEN ANGEL (PT-BR)
+Tradução do jogo Fallen Angel (PC)
 
 ## Ultimo lançamento
 Baixar Aqui >>>>>
